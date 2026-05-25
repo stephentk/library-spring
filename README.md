@@ -28,7 +28,7 @@ After completing this lab, you will be able to:
 
 ---
 
-## ▶️ Running the Application
+
 
 Clone the repository:
 
@@ -36,16 +36,6 @@ Clone the repository:
 git clone https://github.com/yourusername/spring-restapi-lab.git
 ```
 
-Navigate into the project directory:
-
-```bash
-cd spring-restapi-lab
-```
-
-Run the application:
-
-```bash
-mvn spring-boot:run
 ```
 
 ---
