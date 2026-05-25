@@ -33,7 +33,7 @@ After completing this lab, you will be able to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/spring-restapi-lab.git
+git clone https://github.com/stephentk/library-spring.git
 ```
 
 ```
